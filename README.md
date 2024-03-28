@@ -2,7 +2,7 @@
 
 The Hellenic Network App is more than just a platform; it's a digital homeland that connects Greeks worldwide with their heritage, community, and the resources they need to thrive. It celebrates the rich tapestry of Greek culture and history, facilitates meaningful connections, and supports the practical needs of Greeks everywhere. By embracing the past and looking to the future, the app strengthens the bonds of the global Greek community, ensuring that no matter where a Greek may be, they can always find a way back home.
 
-Join Us as a Beta Tester or Sponsor for the Hellenic Network App
+## Join Us as a Beta Tester or Sponsor for the Hellenic Network App
 
 We're excited to invite you to become a crucial part of our journey in developing the Hellenic Network App, a platform designed to connect Greeks worldwide with their heritage, culture, and community. As we fine-tune our app, we're looking for beta testers who can provide valuable feedback to enhance user experience and functionality.
 
