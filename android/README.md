@@ -17,18 +17,18 @@ The Hellenic Network App aims to unify Greeks worldwide, providing a multifacete
 The Hellenic Network App is more than just a platform; it's a digital homeland that connects Greeks worldwide with their heritage, community, and the resources they need to thrive. It celebrates the rich tapestry of Greek culture and history, facilitates meaningful connections, and supports the practical needs of Greeks everywhere. By embracing the past and looking to the future, the app strengthens the bonds of the global Greek community, ensuring that no matter where a Greek may be, they can always find a way back home.
 
 ## Android Version
-Starting the development of the Android version of the Hellenic Network App involves a series of steps, each critical to ensuring the app's success. Below we have a breakdown of the necessary steps to get started:
+Starting the development of the Android version of the Hellenic Network App involves a series of steps, each critical to ensuring the app's success. Below, we have a breakdown of the necessary steps to get started:
 
-### Phase 1: Project Setup
+### Phase 1: Project Setup :white_check_mark:
 - **Define Scope:** Clearly outline what the app will and won't do, focusing on its core objectives.
 - **Team Assembly:** Gather a project team, including Android developers, a UI/UX designer, a project manager, and a quality assurance (QA) tester.
 
-### Phase 2: Requirement Gathering
-- **User Requirements:** Conduct surveys, interviews, or use existing research to understand the needs of your target audience.
+### Phase 2: Requirement Gathering :white_check_mark:
+- **User Requirements:** Conduct surveys and interviews, or use existing research to understand the needs of your target audience.
 - **Technical Requirements:** Determine the technical needs, such as server requirements, third-party services, and any specific Android platform considerations.
 
 ### Phase 3: Design Phase
-- **Wireframing:** Create wireframes for the app to outline the basic structure and user flow.
+- **Wireframing:** Create wireframes for the app to outline the basic structure and user flow. :pushpin:
 - **UI/UX Design:** Design the user interface, focusing on aesthetics that reflect Greek culture and ensuring a user-friendly experience.
 - **Prototype:** Develop a clickable prototype to simulate user interaction with the UI/UX design.
 
