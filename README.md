@@ -9,18 +9,20 @@ We're excited to invite you to become a crucial part of our journey in developin
 ### Become a Beta Tester
 If you're passionate about Greek culture and interested in technology, we'd love for you to join us as a beta tester. Your insights will help shape an app that serves the needs and interests of Greeks globally. To join our beta testing program, follow the link below:
 
-+ When you donate to support the project, you can [Join Beta Testing Program Here](https://ellhn.es/donate.html) to be part of the exclusive 1000 First Beta Testers. 
++ When you donate to support the project, you can [Join Beta Testing Program Here](https://ellhn.es/donate.html) to join the exclusive 1000 First Beta Testers. 
 
 + If you only want to add your name to the Beta Tester List [Add Your Name On The Beta Testing Program Here](https://ellhn.es/contact.html)
  
 ### Support Our Development
-We're offering the opportunity to join our founders' circle for those who wish to contribute to the development of the Hellenic Network App. Your support will accelerate our development process, ensuring that we can provide the best possible platform to our users. As a token of our appreciation, founders will receive lifetime access to all services offered by the app at no cost.
+We're offering the opportunity to join our founders' circle for those who wish to contribute to the development of the Hellenic Network App. Your support will accelerate our development process, ensuring that we can provide the best possible platform to our users. As a token of our appreciation, Sponsors and Donors will receive lifetime access to all services offered by the app at no cost.
 
 [Support Development and Become a Sponsor](https://github.com/sponsors/geopayme)
 
 By participating as a beta tester or supporting our development, you're not just contributing to an app; you're fostering a global community of Greeks and friends of Greece. Your involvement will help ensure that our shared heritage and culture continue to thrive in the digital age.
 
 Thank you for considering joining us on this exciting journey. Together, we can create a digital space that truly represents the spirit and legacy of the Greek community worldwide.
+
+[Read More Details ABout the Android Version](https://github.com/geopayme/HellenicNetworkApp/tree/main/android_
 
 
 ![Hellenic Network Wireframe](https://github.com/geopayme/hellenicnetworkapp/blob/main/images/Hellenic_Network_Mobile_App_Group_42.png)
