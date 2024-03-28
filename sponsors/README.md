@@ -1,0 +1,1 @@
+## Sponsors XML Depository
