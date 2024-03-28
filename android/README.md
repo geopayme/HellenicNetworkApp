@@ -24,10 +24,10 @@ Starting the development of the Android version of the Hellenic Network App invo
 - **Team Assembly:** Gather a project team, including Android developers, a UI/UX designer, a project manager, and a quality assurance (QA) tester.
 
 ### Phase 2: Requirement Gathering :white_check_mark:
-- **User Requirements:** Conduct surveys and interviews, or use existing research to understand the needs of your target audience.
+- **User Requirements:** Conduct surveys and interviews or use existing research to understand the needs of your target audience.
 - **Technical Requirements:** Determine the technical needs, such as server requirements, third-party services, and any specific Android platform considerations.
 
-### Phase 3: Design Phase
+### Phase 3: Design Phase :negative_squared_cross_mark:
 - **Wireframing:** Create wireframes for the app to outline the basic structure and user flow. :pushpin:
 - **UI/UX Design:** Design the user interface, focusing on aesthetics that reflect Greek culture and ensuring a user-friendly experience.
 - **Prototype:** Develop a clickable prototype to simulate user interaction with the UI/UX design.
