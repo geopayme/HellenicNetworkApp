@@ -22,7 +22,7 @@ By participating as a beta tester or supporting our development, you're not just
 
 Thank you for considering joining us on this exciting journey. Together, we can create a digital space that truly represents the spirit and legacy of the Greek community worldwide.
 
-[Read More Details ABout the Android Version](https://github.com/geopayme/HellenicNetworkApp/tree/main/android_
+[Read More Details About the Android Version](https://github.com/geopayme/HellenicNetworkApp/tree/main/android)
 
 
 ![Hellenic Network Wireframe](https://github.com/geopayme/hellenicnetworkapp/blob/main/images/Hellenic_Network_Mobile_App_Group_42.png)
